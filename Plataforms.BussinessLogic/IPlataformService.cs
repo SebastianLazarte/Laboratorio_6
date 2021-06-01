@@ -1,5 +1,3 @@
-namespace Plataforms.BussinessLogic
-{
 public interface IPlataformService
     {
         string GetPlataformAsync(int id);
@@ -8,4 +6,3 @@ public interface IPlataformService
         string UpdatePlataformAsync(int id, string plataform);
         string DeletePlataformAsync(int id);
     }
-}
