@@ -1,4 +1,6 @@
-public class PlataformService : IPlataformService
+namespace Plataforms.BussinessLogic
+{
+    public class PlataformService : IPlataformService
     {
         public string GetPlataformAsync(int id){return "";}
         public string GetPlataformsAsync(string orderBy = "id"){return "";}
@@ -7,3 +9,4 @@ public class PlataformService : IPlataformService
         public string DeletePlataformAsync(int id){return "";}
     
     }
+}
