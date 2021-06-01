@@ -1,0 +1,16 @@
+D:\Universidad\Septimo Semestre\Arquitectura de software\Labos\6.Implentacion de un patron o modelo arquitectonico monolitico\Laboratiorio_6\Plataforms.UI\bin\Debug\net5.0\Plataforms.UI.exe
+D:\Universidad\Septimo Semestre\Arquitectura de software\Labos\6.Implentacion de un patron o modelo arquitectonico monolitico\Laboratiorio_6\Plataforms.UI\bin\Debug\net5.0\Plataforms.UI.deps.json
+D:\Universidad\Septimo Semestre\Arquitectura de software\Labos\6.Implentacion de un patron o modelo arquitectonico monolitico\Laboratiorio_6\Plataforms.UI\bin\Debug\net5.0\Plataforms.UI.runtimeconfig.json
+D:\Universidad\Septimo Semestre\Arquitectura de software\Labos\6.Implentacion de un patron o modelo arquitectonico monolitico\Laboratiorio_6\Plataforms.UI\bin\Debug\net5.0\Plataforms.UI.runtimeconfig.dev.json
+D:\Universidad\Septimo Semestre\Arquitectura de software\Labos\6.Implentacion de un patron o modelo arquitectonico monolitico\Laboratiorio_6\Plataforms.UI\bin\Debug\net5.0\Plataforms.UI.dll
+D:\Universidad\Septimo Semestre\Arquitectura de software\Labos\6.Implentacion de un patron o modelo arquitectonico monolitico\Laboratiorio_6\Plataforms.UI\bin\Debug\net5.0\ref\Plataforms.UI.dll
+D:\Universidad\Septimo Semestre\Arquitectura de software\Labos\6.Implentacion de un patron o modelo arquitectonico monolitico\Laboratiorio_6\Plataforms.UI\bin\Debug\net5.0\Plataforms.UI.pdb
+D:\Universidad\Septimo Semestre\Arquitectura de software\Labos\6.Implentacion de un patron o modelo arquitectonico monolitico\Laboratiorio_6\Plataforms.UI\obj\Debug\net5.0\Plataforms.UI.csprojAssemblyReference.cache
+D:\Universidad\Septimo Semestre\Arquitectura de software\Labos\6.Implentacion de un patron o modelo arquitectonico monolitico\Laboratiorio_6\Plataforms.UI\obj\Debug\net5.0\Plataforms.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Septimo Semestre\Arquitectura de software\Labos\6.Implentacion de un patron o modelo arquitectonico monolitico\Laboratiorio_6\Plataforms.UI\obj\Debug\net5.0\Plataforms.UI.AssemblyInfoInputs.cache
+D:\Universidad\Septimo Semestre\Arquitectura de software\Labos\6.Implentacion de un patron o modelo arquitectonico monolitico\Laboratiorio_6\Plataforms.UI\obj\Debug\net5.0\Plataforms.UI.AssemblyInfo.cs
+D:\Universidad\Septimo Semestre\Arquitectura de software\Labos\6.Implentacion de un patron o modelo arquitectonico monolitico\Laboratiorio_6\Plataforms.UI\obj\Debug\net5.0\Plataforms.UI.csproj.CoreCompileInputs.cache
+D:\Universidad\Septimo Semestre\Arquitectura de software\Labos\6.Implentacion de un patron o modelo arquitectonico monolitico\Laboratiorio_6\Plataforms.UI\obj\Debug\net5.0\Plataforms.UI.dll
+D:\Universidad\Septimo Semestre\Arquitectura de software\Labos\6.Implentacion de un patron o modelo arquitectonico monolitico\Laboratiorio_6\Plataforms.UI\obj\Debug\net5.0\ref\Plataforms.UI.dll
+D:\Universidad\Septimo Semestre\Arquitectura de software\Labos\6.Implentacion de un patron o modelo arquitectonico monolitico\Laboratiorio_6\Plataforms.UI\obj\Debug\net5.0\Plataforms.UI.pdb
+D:\Universidad\Septimo Semestre\Arquitectura de software\Labos\6.Implentacion de un patron o modelo arquitectonico monolitico\Laboratiorio_6\Plataforms.UI\obj\Debug\net5.0\Plataforms.UI.genruntimeconfig.cache

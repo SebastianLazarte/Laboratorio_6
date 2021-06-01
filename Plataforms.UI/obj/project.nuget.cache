@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "nWbS5P4sEmRAw5LRGzQ9PUUMvK/s7T2jYCHO+L5KGGQkd7MfBTfheSLHTfJYx0hAUKxKuS4a0jzkq9ZMsxDA8A==",
+  "success": true,
+  "projectFilePath": "D:\\Universidad\\Septimo Semestre\\Arquitectura de software\\Labos\\6.Implentacion de un patron o modelo arquitectonico monolitico\\Laboratiorio_6\\Plataforms.UI\\Plataforms.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebaa\\.nuget\\packages\\netstandard.library.netframework\\2.0.0-preview2-25405-01\\netstandard.library.netframework.2.0.0-preview2-25405-01.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"NETStandard.Library.NETFramework 2.0.0-preview2-25405-01\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net5.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "NETStandard.Library.NETFramework",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
